@@ -18,5 +18,5 @@
 8. main:project Cloud:远程仓库
 9. Push:Sync Changes,同步远程仓库（origin/main）
 10. 查询提交记录命令：git log （没有输出完的用空格输出完）
-11. ...add remote可以将新项目加入到远程仓库中
-12. 
+11. ...add remote可以将新项目加入到远程仓库中，注意如果该仓库之前被写入过，需要先pull后push（commit'）
+    
