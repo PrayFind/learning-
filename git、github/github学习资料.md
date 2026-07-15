@@ -10,5 +10,10 @@
    in GRAPH , see the save
    look at the Source Control ,number of bubble apprear means the changes haven't be saved
    then commit the second
-   
-4. 
+
+4. Publish Branch enable to commit to Github requaring the Github open in 默认浏览器
+5. select public or private
+6. set 代理 :git config --global http.prox http://proxyuser:proxypwd@proxy.server.com:8080
+7. git config --global http.prox http://proxyuser:proxypwd@proxy.server.com:8080
+8. main:project Cloud:远程仓库
+9. 
